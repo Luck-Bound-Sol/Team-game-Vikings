@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\gitrepos\\teamgameproduct1\\viking\\team-game-vikings\\unreal projects\\fallguyslevel\\intermediate\\source\\fallguyslevel.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\gitrepos\\teamgameproduct1\\viking\\team-game-vikings\\unreal projects\\fallguyslevel\\intermediate\\build\\win64\\fallguyslevel\\development\\core\\sharedpch.core.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\gitrepos\\teamgameproduct1\\viking\\team-game-vikings\\unreal projects\\fallguyslevel\\intermediate\\build\\win64\\unrealgame\\development\\fallguyslevel\\definitions.fallguyslevel.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
